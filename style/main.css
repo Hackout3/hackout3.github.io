@@ -549,6 +549,13 @@ font-weight: 700;
   background: url("../images/participants/simon-cauchemez.jpg") no-repeat;
   background-size: cover; }
 
+.maria-van-kerkhove .participant-image {
+  background: url("../images/participants/maria-van-kerkhove.jpg") no-repeat;
+  background-size: cover; }
+
+.nicole-white .participant-image {
+  background: url("../images/participants/nicole-white.jpg") no-repeat;
+  background-size: cover; }
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
