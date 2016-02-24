@@ -1,4 +1,5 @@
 # Hackout3
-__(invitation only), June 2016. San Francisco__
 
-![](https://placebear.com/700/300)
+<a href="https://hackout3.github.io/website">
+<img src="images/banner.jpg" alt="Hackout 3">
+</a>
