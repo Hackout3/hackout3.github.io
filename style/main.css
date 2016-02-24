@@ -33,7 +33,7 @@ time, mark, audio, video {
   vertical-align: baseline; }
 
 body {
-  font-family: "proxima-nova-alt";
+  font-family: 'Lato', sans-serif;
   line-height: 1.4; }
 
 ol, ul {
@@ -126,7 +126,7 @@ body {
   /*color: #27ae60;*/
   color: #34495e;
   /*font-family: "museo-sans", sans-serif;*/
-  font-family: "proxima-nova-alt";
+  font-family: 'Lato', sans-serif;
   font-weight: 300;
   line-height: 2rem; }
   @media only screen and (min-width: 960px) {
@@ -244,7 +244,7 @@ header {
 
 .byline {
   line-height: 1.2em;
-  font-family: "brandon-grotesque",sans-serif;
+  font-family: 'Lato', sans-serif;
   /*color: #34495e;*/
   color: #2c3e50;
   font-style: normal;
@@ -375,7 +375,7 @@ header {
 
 .coc-wrap {
   width: 85%;
-  font-family: "proxima-nova-alt";
+  font-family: 'Lato', sans-serif;
   color: #34495e;
   font-size: 110%;
   line-height: 2em;
@@ -409,7 +409,7 @@ font-weight: 300;
 
 .coc-wrap ul {
 list-style: square outside none;
-font-family: "proxima-nova-alt",sans-serif;
+font-family: 'Lato', sans-serif;
 font-style: normal;
 font-weight: 300;
 margin-left: 10px;
@@ -426,7 +426,7 @@ margin-right: 10px;
 }
 
 .imp-stuff {
-font-family: "proxima-nova-alt",sans-serif;
+font-family: 'Lato', sans-serif;
 font-style: normal;
 font-size: 128%;
 font-weight: 700;
