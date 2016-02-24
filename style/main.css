@@ -286,8 +286,7 @@ header {
 
 .nav-link {
   text-decoration: none;
-  border: 1px solid #27ae60;
-  color: #27ae60;
+  border: 1px solid #8585ad;
   padding: 0.4rem 0.8rem;
   border-radius: 4px;
   text-transform: uppercase;
@@ -297,10 +296,14 @@ header {
   width: 60%;
   display: block;
   text-align: center;
-  margin: 0 auto 1rem; }
+  margin: 0 auto 1rem; 
+  background: #8585ad;
+  /* color: #666699; */
+  color: #fff;
+}
   .nav-link:hover {
-    background: #27ae60;
-    color: #fff; }
+    background: #fff;
+    color: #8585ad; }
   @media only screen and (min-width: 960px) {
     .nav-link {
       float: left;
@@ -506,7 +509,8 @@ font-weight: 700;
 .apply-wrap {
   width: 100%;
   color: #fff;
-  background: #3498db;
+  /* background: #3498db; */
+  background: #666699;
   padding: 4rem 0; }
   @media only screen and (min-width: 1100px) {
     .apply-wrap {
