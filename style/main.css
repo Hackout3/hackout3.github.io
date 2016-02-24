@@ -553,6 +553,10 @@ font-weight: 700;
   background: url("../images/participants/simon-cauchemez.jpg") no-repeat;
   background-size: cover; }
 
+.justin-lessler .participant-image {
+  background: url("../images/participants/justin-lessler.jpg") no-repeat;
+  background-size: cover; }
+
 .maria-van-kerkhove .participant-image {
   background: url("../images/participants/maria-van-kerkhove.jpg") no-repeat;
   background-size: cover; }
