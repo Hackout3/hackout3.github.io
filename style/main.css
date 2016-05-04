@@ -557,6 +557,10 @@ font-weight: 700;
   background: url("../images/participants/simon-cauchemez.jpg") no-repeat;
   background-size: cover; }
 
+.anne-cori .participant-image {
+  background: url("../images/participants/anne-cori.jpg") no-repeat;
+  background-size: cover; }
+
 .elisabeth-dahlqwist .participant-image {
   background: url("../images/participants/elisabeth-dahlqwist.jpg") no-repeat;
   background-size: cover; }
