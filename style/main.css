@@ -533,16 +533,20 @@ font-weight: 700;
 
 /*These are all the participants*/
 
+.thibaut-jombart .participant-image {
+  background: url("../images/participants/thibaut-jombart.jpg") no-repeat;
+  background-size: cover; }
+
 .karthik-ram .participant-image {
   background: url("../images/participants/karthik-ram.jpg") no-repeat;
   background-size: cover; }
 
-.rich-fitzjohn .participant-image {
-  background: url("../images/participants/rich-fitzjohn.jpg") no-repeat;
+.dean-attali .participant-image {
+  background: url("../images/participants/dean-attali.jpg") no-repeat;
   background-size: cover; }
 
-.thibaut-jombart .participant-image {
-  background: url("../images/participants/thibaut-jombart.jpg") no-repeat;
+.rich-fitzjohn .participant-image {
+  background: url("../images/participants/rich-fitzjohn.jpg") no-repeat;
   background-size: cover; }
 
 .finlay-campbell .participant-image {
