@@ -581,6 +581,10 @@ font-weight: 700;
   background: url("../images/participants/jennifer-myers.jpg") no-repeat;
   background-size: cover; }
 
+.vp-nagraj .participant-image {
+  background: url("../images/participants/vp-nagraj.jpg") no-repeat;
+  background-size: cover; }
+
 .katie-planey .participant-image {
   background: url("../images/participants/katie-planey.jpg") no-repeat;
   background-size: cover; }
