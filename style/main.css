@@ -545,6 +545,10 @@ font-weight: 700;
   background: url("../images/participants/dean-attali.jpg") no-repeat;
   background-size: cover; }
 
+.mika-braginsky .participant-image {
+  background: url("../images/participants/mika-braginsky.jpg") no-repeat;
+  background-size: cover; }
+
 .rich-fitzjohn .participant-image {
   background: url("../images/participants/rich-fitzjohn.jpg") no-repeat;
   background-size: cover; }
