@@ -605,6 +605,10 @@ font-weight: 700;
   background: url("../images/participants/ilana-schafer.jpg") no-repeat;
   background-size: cover; }
 
+.shikun-li .participant-image {
+  background: url("../images/participants/shikun-li.jpg") no-repeat;
+  background-size: cover; }
+
 .maria-van-kerkhove .participant-image {
   background: url("../images/participants/maria-van-kerkhove.jpg") no-repeat;
   background-size: cover; }
