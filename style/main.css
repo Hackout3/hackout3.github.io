@@ -581,6 +581,10 @@ font-weight: 700;
   background: url("../images/participants/justin-lessler.jpg") no-repeat;
   background-size: cover; }
 
+.john-lees .participant-image {
+  background: url("../images/participants/john-lees.jpg") no-repeat;
+  background-size: cover; }
+
 .evgenia-markvardt .participant-image {
   background: url("../images/participants/evgenia-markvardt.jpg") no-repeat;
   background-size: cover; }
