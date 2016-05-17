@@ -553,6 +553,10 @@ font-weight: 700;
   background: url("../images/participants/rich-fitzjohn.jpg") no-repeat;
   background-size: cover; }
 
+.simon-frost .participant-image {
+  background: url("../images/participants/simon-frost.jpg") no-repeat;
+  background-size: cover; }
+
 .finlay-campbell .participant-image {
   background: url("../images/participants/finlay-campbell.jpg") no-repeat;
   background-size: cover; }
