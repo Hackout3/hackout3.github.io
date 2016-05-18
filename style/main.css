@@ -577,6 +577,10 @@ font-weight: 700;
   background: url("../images/participants/elisabeth-dahlqwist.jpg") no-repeat;
   background-size: cover; }
 
+.alex-demarsh .participant-image {
+  background: url("../images/participants/alex-demarsh.jpg") no-repeat;
+  background-size: cover; }
+
 .james-hayward .participant-image {
   background: url("../images/participants/james-hayward.jpg") no-repeat;
   background-size: cover; }
