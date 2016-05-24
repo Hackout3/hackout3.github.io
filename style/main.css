@@ -629,6 +629,10 @@ font-weight: 700;
   background: url("../images/participants/shikun-li.jpg") no-repeat;
   background-size: cover; }
 
+.yu-luo .participant-image {
+  background: url("../images/participants/yu-luo.jpg") no-repeat;
+  background-size: cover; }
+
 .maria-van-kerkhove .participant-image {
   background: url("../images/participants/maria-van-kerkhove.jpg") no-repeat;
   background-size: cover; }
