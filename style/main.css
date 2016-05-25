@@ -589,6 +589,10 @@ font-weight: 700;
   background: url("../images/participants/alex-demarsh.jpg") no-repeat;
   background-size: cover; }
 
+.inger-damon .participant-image {
+  background: url("../images/participants/inger-damon.jpg") no-repeat;
+  background-size: cover; }
+
 .james-hayward .participant-image {
   background: url("../images/participants/james-hayward.jpg") no-repeat;
   background-size: cover; }
