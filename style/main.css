@@ -669,6 +669,10 @@ font-weight: 700;
   background: url("../images/participants/nicole-white.jpg") no-repeat;
   background-size: cover; }
 
+.oliver-watson .participant-image {
+  background: url("../images/participants/oliver-watson.jpg") no-repeat;
+  background-size: cover; }
+
 .jacco-wallinga .participant-image {
   background: url("../images/participants/jacco-wallinga.jpg") no-repeat;
   background-size: cover; }
