@@ -573,6 +573,10 @@ font-weight: 700;
   background: url("../images/participants/anne-cori.jpg") no-repeat;
   background-size: cover; }
 
+.thomas-crellen .participant-image {
+  background: url("../images/participants/thomas-crellen.jpg") no-repeat;
+  background-size: cover; }
+
 .don-klinkenberg .participant-image {
   background: url("../images/participants/don-klinkenberg.jpg") no-repeat;
   background-size: cover; }
