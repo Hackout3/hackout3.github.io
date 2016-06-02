@@ -573,12 +573,24 @@ font-weight: 700;
   background: url("../images/participants/anne-cori.jpg") no-repeat;
   background-size: cover; }
 
+.thomas-crellen .participant-image {
+  background: url("../images/participants/thomas-crellen.jpg") no-repeat;
+  background-size: cover; }
+
+.don-klinkenberg .participant-image {
+  background: url("../images/participants/don-klinkenberg.jpg") no-repeat;
+  background-size: cover; }
+
 .elisabeth-dahlqwist .participant-image {
   background: url("../images/participants/elisabeth-dahlqwist.jpg") no-repeat;
   background-size: cover; }
 
 .alex-demarsh .participant-image {
   background: url("../images/participants/alex-demarsh.jpg") no-repeat;
+  background-size: cover; }
+
+.inger-damon .participant-image {
+  background: url("../images/participants/inger-damon.jpg") no-repeat;
   background-size: cover; }
 
 .james-hayward .participant-image {
@@ -609,6 +621,10 @@ font-weight: 700;
   background: url("../images/participants/katie-planey.jpg") no-repeat;
   background-size: cover; }
 
+.isabel-rodriguez .participant-image {
+  background: url("../images/participants/isabel-rodriguez.jpg") no-repeat;
+  background-size: cover; }
+
 .jonathan-polonsky .participant-image {
   background: url("../images/participants/jonathan-polonsky.jpg") no-repeat;
   background-size: cover; }
@@ -623,6 +639,10 @@ font-weight: 700;
 
 .shikun-li .participant-image {
   background: url("../images/participants/shikun-li.jpg") no-repeat;
+  background-size: cover; }
+
+.yu-luo .participant-image {
+  background: url("../images/participants/yu-luo.jpg") no-repeat;
   background-size: cover; }
 
 .maria-van-kerkhove .participant-image {
@@ -643,10 +663,21 @@ font-weight: 700;
 
 .bertrand-sudre .participant-image {
   background: url("../images/participants/bertrand-sudre.jpg") no-repeat;
+
+.armand-sprecher .participant-image {
+  background: url("../images/participants/armand-sprecher.jpg") no-repeat;
+  background-size: cover; }
+
+.robin-thompson .participant-image {
+  background: url("../images/participants/robin-thompson.jpg") no-repeat;
   background-size: cover; }
 
 .nicole-white .participant-image {
   background: url("../images/participants/nicole-white.jpg") no-repeat;
+  background-size: cover; }
+
+.oliver-watson .participant-image {
+  background: url("../images/participants/oliver-watson.jpg") no-repeat;
   background-size: cover; }
 
 .jacco-wallinga .participant-image {
