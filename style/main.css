@@ -665,6 +665,10 @@ font-weight: 700;
   background: url("../images/participants/armand-sprecher.jpg") no-repeat;
   background-size: cover; }
 
+.bertrand-sudre .participant-image {
+  background: url("../images/participants/bertrand-sudre.jpg") no-repeat;
+  background-size: cover; }
+
 .robin-thompson .participant-image {
   background: url("../images/participants/robin-thompson.jpg") no-repeat;
   background-size: cover; }
