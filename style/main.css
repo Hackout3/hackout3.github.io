@@ -533,6 +533,12 @@ font-weight: 700;
 
 /*These are all the participants*/
 
+.dani-ushizima .participant-image {
+  background: url("../../images/participants/dani-ushizima.jpg") no-repeat;
+  background-size: cover; }
+
+  
+
 .thibaut-jombart .participant-image {
   background: url("../images/participants/thibaut-jombart.jpg") no-repeat;
   background-size: cover; }
